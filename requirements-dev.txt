@@ -1,0 +1,4 @@
+black
+ipykernel
+pytest
+flake8
