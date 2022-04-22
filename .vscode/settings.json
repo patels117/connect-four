@@ -1,0 +1,20 @@
+{
+    "editor.rulers": [
+        {
+            "column": 79,
+            "color": "#5a5a5a80",
+        }
+    ],
+    "python.pythonPath": "venv\\Scripts\\python.exe",
+    "autoDocstring.docstringFormat": "google",
+    "python.linting.flake8Enabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ],
+    "python.formatting.provider": "black",
+    "mssql.persistQueryResultTabs": true,
+    "mssql.format.alignColumnDefinitionsInColumns": true,
+    "mssql.format.placeSelectStatementReferencesOnNewLine": true
+}

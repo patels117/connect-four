@@ -1,4 +1,6 @@
-black
-ipykernel
 pytest
 flake8
+black
+ipykernel
+pdoc
+pydoc-markdown
