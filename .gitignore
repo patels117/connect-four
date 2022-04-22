@@ -1,3 +1,6 @@
+# ignored interactive script
+shell.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -109,6 +112,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pre-commit-venv/
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +131,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# model files
+*.xlsx
+*.xls
+*.csv
+*.pkl
